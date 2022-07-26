@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nledda
 - 👀 I’m interested in coding, but I have just started. Tell me a tip you wished you got when you started.
-- 🌱 I’m currently learning Java and will then continue with JavaScript (React and Node.js)
+- 🌱 I’m currently learning Java and will then continue with Python
 - 📫 How to reach me: just via LinkedIn
 
 <!---
